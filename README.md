@@ -1,3 +1,4 @@
+We'd love to see what you create! Share your ASCII art creations with us, and feel free to contribute to the project by submitting bug reports, feature requests, or even code improvements. Every contribution is appreciated!
 # Image to ASCII Art Converter
 
 Convert images to ASCII art in your terminal!
