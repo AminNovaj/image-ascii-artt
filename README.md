@@ -1,5 +1,6 @@
 We'd love to see what you create! Share your ASCII art creations with us, and feel free to contribute to the project by submitting bug reports, feature requests, or even code improvements. Every contribution is appreciated!
-# Image to ASCII Art Converter
+
+# crzyASCIArtGen.py - Image to ASCII Art Converter
 
 Convert images to ASCII art in your terminal!
 
@@ -31,7 +32,7 @@ This Python script converts an image file into ASCII art that can be displayed i
     ```
 3.  **Run the script:**
     ```bash
-    python image_to_ascii.py
+    python crzyASCIArtGen.py
     ```
 4.  **Enter the path to your image file when prompted.**
 
@@ -57,7 +58,7 @@ Dieses Python-Skript konvertiert eine Bilddatei in ASCII-Art, die in Ihrem Termi
     ```
 3.  **Skript ausführen:**
     ```bash
-    python image_to_ascii.py
+    python crzyASCIArtGen.py
     ```
 4.  **Geben Sie den Pfad zu Ihrer Bilddatei ein, wenn Sie dazu aufgefordert werden.**
 
@@ -83,7 +84,7 @@ Ce script Python convertit un fichier image en art ASCII qui peut être affiché
     ```
 3.  **Exécuter le script:**
     ```bash
-    python image_to_ascii.py
+    python crzyASCIArtGen.py
     ```
 4.  **Entrez le chemin d'accès à votre fichier image lorsque vous y êtes invité.**
 
@@ -109,7 +110,7 @@ Ce script Python convertit un fichier image en art ASCII qui peut être affiché
     ```
 3.  **تشغيل البرنامج النصي:**
     ```bash
-    python image_to_ascii.py
+    python crzyASCIArtGen.py
     ```
 4.  **أدخل مسار ملف الصورة الخاص بك عندما يُطلب منك ذلك.**
 
@@ -135,7 +136,7 @@ Ce script Python convertit un fichier image en art ASCII qui peut être affiché
     ```
 3.  **اجرای اسکریپت:**
     ```bash
-    python image_to_ascii.py
+    python crzyASCIArtGen.py
     ```
 4.  **هنگامی که از شما خواسته شد، مسیر فایل تصویر خود را وارد کنید.**
 
