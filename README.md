@@ -160,3 +160,7 @@ Install with:
 
 ```bash
 pip install -r requirements.txt
+
+## License
+
+This project is licensed under the MIT License, a permissive license that allows you to use, modify, and distribute the code for any purpose, even commercially. See the [LICENSE](LICENSE) file for details.
